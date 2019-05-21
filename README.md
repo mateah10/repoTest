@@ -9,7 +9,7 @@ Guacamole recipe
 - tomatoes
 - salt & pepper
 
-# Instructions
+## Instructions
 
 - chop onion and tomatoes
 - cut open avocado and remove stone
