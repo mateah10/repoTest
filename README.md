@@ -1,6 +1,8 @@
 # repoTest - EMBL 
 An example repository for introductory **Git** training 
 
+<!-- to add comment--!>
+
 - you can add bulltes
   - and sub-bullets
 - [and links](https://www.google.com/)
