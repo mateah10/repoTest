@@ -1,2 +1,2 @@
-# repoTest
-An introduction to repository in Git
+# repoTest - EMBL 
+An example repository for introductory **Git** training 
