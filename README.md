@@ -1,4 +1,13 @@
 # repoTest - EMBL 
+
+Guacamole recipe
+
+- avocado
+- onion
+- salt & pepper
+
+Put into a bowl and mix.
+
 An example repository for introductory **Git** training 
 
 <!-- to add comment -->
