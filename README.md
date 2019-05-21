@@ -2,7 +2,7 @@
 An example repository for introductory **Git** training 
 
 - you can add bulltes
- - and sub-bullets
+  - and sub-bullets
 - [and links](https://www.google.com/)
 - *italics* and ~~strikethrough~~ is also possible
 
